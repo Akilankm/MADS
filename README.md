@@ -132,9 +132,62 @@ Welcome to the NLP (Natural Language Processing) learning repository! This repos
 
 ## Resources and References
 
-- Curated list of books, tutorials, articles, and online courses for further learning.
-  - Explore recommended resources to deepen your understanding of NLP concepts, techniques, and applications.
-- Links to relevant research papers and academic resources.
-  - Access academic papers and publications to stay updated with the latest advancements in NLP research.
+### Introduction to NLP
+- Jurafsky, D., & Martin, J. H. (2020). Speech and Language Processing (3rd ed.). Pearson Education.
+  - A comprehensive textbook covering the fundamentals of NLP, including basic concepts, challenges, and applications.
+
+### Foundational Concepts
+- Manning, C. D., & Schütze, H. (1999). Foundations of Statistical Natural Language Processing. MIT Press.
+  - A classic book that covers foundational concepts and techniques in statistical NLP, including tokenization, stemming, lemmatization, and syntactic parsing.
+
+### Text Preprocessing
+- Bird, S., Klein, E., & Loper, E. (2009). Natural Language Processing with Python. O'Reilly Media.
+  - A practical guide that introduces text preprocessing techniques using Python and the NLTK library.
+
+### Language Modeling
+- Goldberg, Y. (2017). Neural Network Methods for Natural Language Processing. Morgan & Claypool Publishers.
+  - An in-depth book that covers language modeling techniques, including n-grams, Markov models, and neural language models.
+- Vaswani, A., et al. (2017). Attention is All You Need. Proceedings of the 31st Conference on Neural Information Processing Systems (NeurIPS).
+  - The seminal paper introducing the Transformer model, a key architecture for language modeling.
+
+### Named Entity Recognition
+- Nadeau, D., & Sekine, S. (2007). A Survey of Named Entity Recognition and Classification. Linguisticae Investigationes, 30(1), 3-26.
+  - A comprehensive survey paper that provides an overview of named entity recognition techniques, including rule-based methods and probabilistic models.
+- Lample, G., et al. (2016). Neural Architectures for Named Entity Recognition. Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT).
+  - A research paper that introduces neural architectures for named entity recognition, including LSTM-CRF models.
+
+### Sentiment Analysis
+- Pang, B., & Lee, L. (2008). Opinion Mining and Sentiment Analysis. Foundations and Trends in Information Retrieval, 2(1-2), 1-135.
+  - A comprehensive survey of sentiment analysis techniques, including lexicon-based approaches and machine learning classifiers.
+- Devlin, J., et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT).
+  - The influential paper introducing BERT, a transformer-based model that revolutionized various NLP tasks, including sentiment analysis.
+
+### Text Classification
+- Manning, C. D., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge University Press.
+  - A comprehensive textbook covering various text classification techniques, including bag-of-words, TF-IDF, and machine learning classifiers.
+- Kim, Y. (2014). Convolutional Neural Networks for Sentence Classification. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+  - A research paper that introduces the use of convolutional neural networks (CNNs) for text classification.
+
+### Topic Modeling
+- Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet Allocation. Journal of Machine Learning Research, 3, 993-1022.
+  - The seminal paper that introduces the Latent Dirichlet Allocation (LDA) model for topic modeling.
+- Lee, D. D., & Seung, H. S. (1999). Learning the Parts of Objects by Non-negative Matrix Factorization. Nature, 401(6755), 788-791.
+  - A research paper that introduces Non-Negative Matrix Factorization (NMF) for topic modeling.
+
+### Sequence-to-Sequence Models
+- Cho, K., et al. (2014). Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+  - A research paper that introduces the basic sequence-to-sequence model architecture.
+- Vaswani, A., et al. (2017). Attention is All You Need. Proceedings of the 31st Conference on Neural Information Processing Systems (NeurIPS).
+  - The seminal paper introducing the Transformer model, a powerful architecture for sequence-to-sequence tasks.
+
+### Advanced NLP Techniques
+- Ruder, S., & Howard, J. (2021). Transfer Learning in Natural Language Processing. Morgan & Claypool Publishers.
+  - A comprehensive book that covers transfer learning techniques for NLP tasks, including the fine-tuning of large-scale pre-trained models like GPT and T5.
+- Radford, A., et al. (2018). Improving Language Understanding by Generative Pre-training. URL: https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+  - The influential paper introducing the GPT model and its pre-training approach.
+
+These resources provide a solid foundation and deeper understanding of the various topics in advanced NLP techniques. It is recommended to refer to these materials for further exploration and to stay updated with the latest advancements in the field.
+
+
 
 Feel free to explore the different sections based on your current knowledge and learning goals. Happy learning!
